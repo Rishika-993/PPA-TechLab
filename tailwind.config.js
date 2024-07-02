@@ -8,6 +8,9 @@ module.exports = withMT({
   ],
     theme: {
     extend: {},
+    fontFamily: {
+      inter: ["Inter", "sans-serif"],
+    },
   },
   plugins: [],
 })

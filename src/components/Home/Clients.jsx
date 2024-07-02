@@ -17,7 +17,7 @@ function Clients() {
         <p className='text-[#717171] text-center text-sm sm:text-base'>We have been working with some Fortune 500+ clients</p>
       </div>
       </div>
-      <div className='flex flex-row flex-wrap space-x-8 md:justify-between items-center px-10 py-5 lg:px-40'>
+      <div className='flex flex-row flex-wrap space-x-8 space-y-0 md:justify-between items-center px-10 py-5 lg:px-40'>
         <img src={L1} alt="Logo" className='w-8 h-8 md:w-12 md:h-12 mx-5 my-5' />
         <img src={L2} alt="Logo" className='w-8 h-8 md:w-12 md:h-12 mx-5 my-5' />
         <img src={L3} alt="Logo" className='w-8 h-8 md:w-12 md:h-12 mx-5 my-5' />
