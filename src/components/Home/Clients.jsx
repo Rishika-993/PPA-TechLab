@@ -12,7 +12,7 @@ function Clients() {
   return (
     <div className='mt-10'>
       <div className='px-10 lg:px-40 flex flex-col flex-wrap items-center'>
-      <div className='space-y-2'>
+      <div className='space-y-2 font-inter'>
         <h1 className='text-[#4D4D4D] text-center text-2xl font-medium md:text-4xl md:font-semibold'>Our Clients</h1>
         <p className='text-[#717171] text-center text-sm sm:text-base'>We have been working with some Fortune 500+ clients</p>
       </div>
