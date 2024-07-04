@@ -15,8 +15,11 @@ function Unlock() {
                     Sed accumsan quam vitae est varius fringilla. Pellentesque placerat vestibulum lorem sed porta.
                     Nullam mattis tristique iaculis. Nullam pulvinar sit amet risus pretium auctor. 
                     Etiam quis massa pulvinar, aliquam quam vitae, tempus sem. Donec elementum pulvinar odio.</p>
+
                 </div>
-                <div></div>
+                <div className='mx-auto lg:mx-0'>
+                    <button className="bg-[#4CAF4F] text-white px-5 py-2 text-sm md:text-base md:px-8 md:py-3 rounded mt-5 md:max-w-50">Learn More</button>
+                </div>
             </div>
         </div>
     </div>
