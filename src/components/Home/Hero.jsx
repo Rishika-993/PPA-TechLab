@@ -29,45 +29,45 @@ export default function Hero() {
         ))}
       </div>
     )}
-     autoplay='true' autoplayDelay={1500} loop='true' className="bg-[#F5F7FA] w-full sm:h-[85vh] h-[50vh] overflow-y-hidden  ">
+     autoplayDelay={1500} loop='true' className="bg-[#F5F7FA] w-full lg:h-[85vh] h-[46vh] overflow-y-hidden  ">
       <div>
-        <div className="flex flex-row p-40">
+        <div className="flex flex-row p-10 pt-12 space-x-4 lg:space-x-0 md:p-20 lg:p-40">
           <div className="w-1/2 text-left md:py-28 lg:py-20">
-            <div className="text-2xl md:text-3xl lg:text-5xl font-inter font-semibold text-[#4D4D4D]">
+            <div className="text-xl pt-20 md:pt-0 md:text-3xl lg:text-5xl font-inter font-semibold text-[#4D4D4D]">
               Lessons and insights <span className="text-[#4CAF4F]">from 8 years</span>
             </div>
-            <p className="mt-4 text-[#717171]">Where to grow your business as a photographer: site or social media?</p>
-            <button className="bg-[#4CAF4F] text-white px-8 py-3 rounded mt-5 max-w-32">Register</button>
+            <p className="mt-2 md:mt-4 text-[#717171] text-xs md:text-base">Where to grow your business as a photographer: site or social media?</p>
+            <button className="bg-[#4CAF4F] text-white px-5 py-2 text-sm md:text-base md:px-8 md:py-3 rounded mt-5 max-w-32">Register</button>
           </div>
-          <div className="w-1/2 flex justify-end">
+          <div className="w-1/2 flex justify-end items-center">
             <img src={Illustration} alt="illustration" className="h-100 w-100 object-cover " />
           </div>
         </div>
       </div>
       <div>
-        <div className="flex flex-row p-40">
+        <div className="flex flex-row p-10 pt-12 space-x-4 lg:space-x-0 md:p-20 lg:p-40">
           <div className="w-1/2 text-left md:py-28 lg:py-20">
-            <div className="text-2xl md:text-3xl lg:text-5xl font-inter font-semibold text-[#4D4D4D]">
+            <div className="text-xl pt-20 md:pt-0 md:text-3xl lg:text-5xl font-inter font-semibold text-[#4D4D4D]">
               Lessons and insights <span className="text-[#4CAF4F]">from 8 years</span>
             </div>
-            <p className="mt-4 text-[#717171]">Where to grow your business as a photographer: site or social media?</p>
-            <button className="bg-[#4CAF4F] text-white px-8 py-3 rounded mt-5 max-w-32">Register</button>
+            <p className="mt-2 md:mt-4 text-[#717171] text-xs md:text-base">Where to grow your business as a photographer: site or social media?</p>
+            <button className="bg-[#4CAF4F] text-white px-5 py-2 text-sm md:text-base md:px-8 md:py-3 rounded mt-5 max-w-32">Register</button>
           </div>
-          <div className="w-1/2 flex justify-end">
+          <div className="w-1/2 flex justify-end items-center">
             <img src={Illustration} alt="illustration" className="h-100 w-100 object-cover " />
           </div>
         </div>
       </div>
       <div>
-        <div className="flex flex-row p-40">
+        <div className="flex flex-row p-10 pt-12 space-x-4 lg:space-x-0 md:p-20 lg:p-40">
           <div className="w-1/2 text-left md:py-28 lg:py-20">
-            <div className="text-2xl md:text-3xl lg:text-5xl font-inter font-semibold text-[#4D4D4D]">
+            <div className="text-xl pt-20 md:pt-0 md:text-3xl lg:text-5xl font-inter font-semibold text-[#4D4D4D]">
               Lessons and insights <span className="text-[#4CAF4F]">from 8 years</span>
             </div>
-            <p className="mt-4 text-[#717171]">Where to grow your business as a photographer: site or social media?</p>
-            <button className="bg-[#4CAF4F] text-white px-8 py-3 rounded mt-5 max-w-32">Register</button>
+            <p className="mt-2 md:mt-4 text-[#717171] text-xs md:text-base">Where to grow your business as a photographer: site or social media?</p>
+            <button className="bg-[#4CAF4F] text-white px-5 py-2 text-sm md:text-base md:px-8 md:py-3 rounded mt-5 max-w-32">Register</button>
           </div>
-          <div className="w-1/2 flex justify-end">
+          <div className="w-1/2 flex justify-end items-center">
             <img src={Illustration} alt="illustration" className="h-100 w-100 object-cover " />
           </div>
         </div>
