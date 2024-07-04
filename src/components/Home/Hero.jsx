@@ -31,7 +31,7 @@ export default function Hero() {
     )}
      autoplay='true' autoplayDelay={1500} loop='true' className="bg-[#F5F7FA] w-full lg:h-[85vh] h-[50vh] overflow-y-hidden  ">
       <div>
-        <div className="flex flex-row p-10 pt-12 space-x-4 lg:space-x-0 md:p-20 lg:p-40">
+        <div className="flex flex-row items-center p-10 py-12 space-x-4 lg:space-x-0 md:p-20 lg:p-40">
           <div className="w-1/2 text-left md:py-28 lg:py-20">
             <div className="text-xl pt-20 md:pt-0 md:text-3xl lg:text-5xl font-inter font-semibold text-[#4D4D4D]">
               Lessons and insights <span className="text-[#4CAF4F]">from 8 years</span>
